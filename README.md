@@ -1,5 +1,5 @@
 # PauloSantos
-<script src="https://cdn.jsdelivr.net/gh/.js" async></script>
+
 ## Olá, sou Paulo Santos, desenvolvedor Front-end, atualmente estou apenas estudando e me capacitando cada vez mais. 🚀 🛸
 
 
