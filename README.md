@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64332760?s=400&u=03ef6c30741656d346fe8eaf025342649bf5e096&v=4?width=676&height=676">
 </div>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/64332760?s=400&u=03ef6c30741656d346fe8eaf025342649bf5e096&v=4?width=676&height=677">
+</div>
   
   <div> 
   <a href="https://www.instagram.com/dev_paulo_santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
