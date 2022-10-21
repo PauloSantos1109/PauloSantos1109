@@ -1,6 +1,6 @@
 # PauloSantos
 
-## Olá, sou Paulo Santos, desenvolvedor Front-end, atualmente estou apenas estudando e me capacitando cada vez mais. 🚀 🛸
+## Olá, sou Paulo Santos, desenvolvedor Front e Back-end, atualmente estou apenas estudando e me capacitando cada vez mais. 🚀 🛸
 
 
 
