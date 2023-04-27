@@ -1,5 +1,3 @@
-# PauloSantos
-
 ## Olá, sou Paulo Santos, desenvolvedor Front e Back-end, atualmente estou procurando uma oportunidade na área. 🚀 🛸
 
 
